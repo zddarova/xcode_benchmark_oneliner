@@ -34,4 +34,4 @@ fi
 
 # Run the benchmark script
 echo "Running benchmark..."
-#sh benchmark.sh
+sh benchmark.sh
